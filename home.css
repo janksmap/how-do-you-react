@@ -1,0 +1,9 @@
+.display-container {
+    height: 200px;
+    width: 600px;
+    border: 1px solid black;
+}
+
+iframe {
+    height: 100%;
+}
